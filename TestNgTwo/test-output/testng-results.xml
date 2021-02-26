@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-05T12:16:11 CST" name="Suite" finished-at="2021-02-05T12:16:11 CST" duration-ms="150">
+    <groups>
+    </groups>
+    <test started-at="2021-02-05T12:16:11 CST" name="Test" finished-at="2021-02-05T12:16:11 CST" duration-ms="150">
+      <class name="Test.DemoTwo">
+        <test-method signature="open()[pri:1, instance:Test.DemoTwo@6e4784bc]" started-at="2021-02-05T12:16:11 CST" name="open" finished-at="2021-02-05T12:16:11 CST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="addCustomer()[pri:2, instance:Test.DemoTwo@6e4784bc]" started-at="2021-02-05T12:16:11 CST" name="addCustomer" finished-at="2021-02-05T12:16:11 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="searchCustomer()[pri:3, instance:Test.DemoTwo@6e4784bc]" started-at="2021-02-05T12:16:11 CST" name="searchCustomer" finished-at="2021-02-05T12:16:11 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCustomer -->
+        <test-method signature="teardown()[pri:4, instance:Test.DemoTwo@6e4784bc]" started-at="2021-02-05T12:16:11 CST" name="teardown" finished-at="2021-02-05T12:16:11 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.DemoTwo -->
+      <class name="Test.DemoOne">
+        <test-method signature="setup()[pri:1, instance:Test.DemoOne@34b7ac2f]" started-at="2021-02-05T12:16:11 CST" name="setup" finished-at="2021-02-05T12:16:11 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:2, instance:Test.DemoOne@34b7ac2f]" started-at="2021-02-05T12:16:11 CST" name="login" finished-at="2021-02-05T12:16:11 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="teardown()[pri:3, instance:Test.DemoOne@34b7ac2f]" started-at="2021-02-05T12:16:11 CST" name="teardown" finished-at="2021-02-05T12:16:11 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.DemoOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
